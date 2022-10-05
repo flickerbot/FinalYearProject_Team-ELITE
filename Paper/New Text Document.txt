@@ -1,2 +1,5 @@
 https://nanonets.com/blog/ocr-with-tesseract/
 // ocr library
+
+https://docs.google.com/spreadsheets/d/1MnWJRCQ9t6YByFJvQUYVB23eWuWwFtd9mxQp5k5JbTQ/edit?usp=sharing
+//google docs
